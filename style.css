@@ -1,4 +1,42 @@
 body {
 background-color:black;
 color:gold;
+font-size:1.75em;
 }
+
+h1 {
+ font-size:2em; 
+}
+
+p {
+ font-size:1.75em;
+}
+
+
+/* unvisited link */
+a:link {
+  color: goldenrod;
+  font-size:1.75em;
+}
+
+/* visited link */
+a:visited {
+  color: goldenrod;
+}
+
+/* mouse over link */
+a:hover {
+  color: goldenrod;
+}
+
+/* selected link */
+a:active {
+  color: goldenrod;
+}
+
+
+
+
+
+
+
