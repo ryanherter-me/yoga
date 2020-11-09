@@ -1,8 +1,8 @@
 {
-  "name": "template-pwa",
-  "short_name": "template-pwa",
-  "theme_color": "#2196f3",
-  "background_color": "#2196f3",
+  "name": "Yoga-Books",
+  "short_name": "yoga-books",
+  "theme_color": "gold",
+  "background_color": "black",
   "display": "standalone",
   "scope": ".",
   "start_url": ".",
